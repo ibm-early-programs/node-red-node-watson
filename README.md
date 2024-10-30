@@ -7,6 +7,10 @@ Node-RED Watson Nodes for IBM Cloud
 
 <a href="https://cla-assistant.io/watson-developer-cloud/node-red-node-watson"><img src="https://cla-assistant.io/readme/badge/watson-developer-cloud/node-red-node-watson" alt="CLA assistant" /></a>
 
+### New in version 0.10.4
+- bump of ibm-watson to 9.1.0
+- bump of node engine to >=16.0.0
+- publish home temporarily moved to [temp home](https://github.com/ibm-early-programs/node-red-node-watson)
 
 ### New in version 0.10.3
 - fix bug in cloud bound STT configuration

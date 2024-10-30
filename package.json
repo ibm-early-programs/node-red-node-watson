@@ -8,14 +8,14 @@
     "request": "~2.88.2",
     "temp": "^0.9.4",
     "qs": "^6.10.3",
-    "ibm-watson": "^6.2.2",
+    "ibm-watson": "^9.1.0",
     "is-docx": "^0.0.3",
     "stream-to-array": "^2.3.0",
     "ws": "^8.5.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/watson-developer-cloud/node-red-node-watson"
+    "url": "https://github.com/ibm-early-programs/node-red-node-watson/tree/0.10.4"
   },
   "license": "Apache-2.0",
   "keywords": [
@@ -53,6 +53,6 @@
     }
   },
   "engines": {
-    "node": ">=12.20.0"
+    "node": ">=16.0.0"
   }
 }
