@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ibm-early-programs/node-red-node-watson/tree/0.10.4"
+    "url": "https://github.com/ibm-early-programs/node-red-node-watson"
   },
   "license": "Apache-2.0",
   "keywords": [
